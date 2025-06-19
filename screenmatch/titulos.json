@@ -1,0 +1,18 @@
+[
+  {
+    "Nombre": "Matrix",
+    "FechaDeLanzamiento": 1993,
+    "Duracion": 60,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeLasEvaluaciones": 0
+  },
+  {
+    "Nombre": "The Avengers",
+    "FechaDeLanzamiento": 2012,
+    "Duracion": 143,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeLasEvaluaciones": 0
+  }
+]
